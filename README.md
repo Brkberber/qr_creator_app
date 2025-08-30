@@ -45,4 +45,4 @@ Open your web browser and go to `http://127.0.0.1:5000` to access the applicatio
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/Brkberber/qr_creator_app/blob/main/LICENSE) file for details.
